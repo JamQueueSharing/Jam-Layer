@@ -9,7 +9,7 @@ public final class Trust {
 
   public static final String COMPANION = "app.morphe.jam.companion";
   public static final String BRIDGE_SERVICE =
-    "app.morphe.extension.music.jam.JamBridgeService";
+    "app.morphe.extension.music.patches.jam.JamBridgeService";
 
   public static void caller(Context context, String pkg) {
     String[] packages = context
